@@ -69,11 +69,4 @@
             </plugin>
         </plugins>
     </build>
-    <distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>aashish-ub-do-not-delete-snapshots</name>
-        <url>http://35.236.221.234:8081/artifactory/mvn-libs-snapshot</url>
-    </snapshotRepository>
-</distributionManagement>
 </project>
